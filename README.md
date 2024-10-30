@@ -1,4 +1,4 @@
-**Travel Nepal - A Simple Travel Agency Frontend**
+**Journey Nepal - A Simple Travel Agency Frontend**
 
 
 **About the Project**
